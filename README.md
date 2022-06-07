@@ -14,4 +14,4 @@ In this project I performed basic data analysis and tried to find answers for th
   <li>Determine if demand for bike renting is higher on weekdays of weekends
     
     
-  Analysis were made with Python and  [Jupyter Notebook]([docs/CONTRIBUTING.md](https://github.com/OndrejVejvoda/engeto-python-project/blob/main/edinburgh_bikes_analysis.ipynb). The most used libraries were pandas, numpy and matplotlib with seaborn.
+  Analysis were made with Python and  [Jupyter Notebook]((https://github.com/OndrejVejvoda/engeto-python-project/blob/main/edinburgh_bikes_analysis.ipynb). The most used libraries were pandas, numpy and matplotlib with seaborn.
