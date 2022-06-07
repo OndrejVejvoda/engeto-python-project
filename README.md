@@ -12,3 +12,6 @@ In this project I performed basic data analysis and tried to find answers for th
   <li>Identify causes of demand fluctuation.
   <li>Determine possible influence of weather on bike renting
   <li>Determine if demand for bike renting is higher on weekdays of weekends
+    
+    
+  Analysis were made with Python and  [Jupyter Notebook]([docs/CONTRIBUTING.md](https://github.com/OndrejVejvoda/engeto-python-project/blob/main/edinburgh_bikes_analysis.ipynb). The most used libraries were pandas, numpy and matplotlib with seaborn.
