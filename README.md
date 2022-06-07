@@ -7,11 +7,12 @@ In this project I performed basic data analysis and tried to find answers for th
   <li>Visualize geographic locations of the stations
   <li>Calculate distances between individual stations
   <li>Analyze durations of trips, their central tendencies and outliers
-
   <li>Visualize demand for bike renting through time.
   <li>Identify causes of demand fluctuation.
   <li>Determine possible influence of weather on bike renting
   <li>Determine if demand for bike renting is higher on weekdays of weekends
     
     
-  Analysis were made with Python and  [Jupyter Notebook](https://github.com/OndrejVejvoda/engeto-python-project/blob/main/edinburgh_bikes_analysis.ipynb). The most used libraries were pandas, numpy and matplotlib with seaborn.
+Analysis was made with Python and  [Jupyter Notebook](https://github.com/OndrejVejvoda/engeto-python-project/blob/main/edinburgh_bikes_analysis.ipynb). The most used libraries were pandas, numpy and matplotlib with seaborn.
+
+Data was available from Engeto database but mainly for performance purposes I saved them to the csv files which are available in this repository also.
